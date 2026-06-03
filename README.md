@@ -1,6 +1,6 @@
-# last updated by 20.02.2026
+# last updated by 03.06.2026
 
-[📄 Скачать актуальное резюме (PDF)](резюме_20-02-26.pdf)
+[📄 Скачать актуальное резюме (PDF)](резюме_03-06-26.pdf)
 
 this repository contains my first CV, created
 in preparation for the exam for the 2nd year
